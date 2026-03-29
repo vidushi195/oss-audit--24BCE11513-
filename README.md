@@ -56,7 +56,7 @@ Follow these steps to execute the scripts on your Linux machine or VM:
 Clone the Repository:
 
 Bash
-git clone https://github.com/[your-username]/oss-audit-24BSA10036.git
+git clone https://github.com/[your-username]/oss-audit-24BCE11513.git
 cd oss-audit-24BCE11513
 Grant Execution Permissions:
 
